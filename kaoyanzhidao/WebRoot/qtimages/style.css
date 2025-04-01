@@ -1,0 +1,42 @@
+BODY {
+	MARGIN: 0px
+}
+BODY TD {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+
+
+A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #679810; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000; TEXT-DECORATION: none
+}
+
+.newsline TD {
+	LINE-HEIGHT: 25px; BORDER-BOTTOM: #c9c9c9 1px dashed
+}
+.newsline TD A:link {
+	COLOR: #000
+}
+.newsline TD A:visited {
+	COLOR: #000
+}
+.newsline TD A:hover {
+	COLOR: #000
+}
+.newsline TD A:active {
+	COLOR: #000
+}
+
+.STYLE2 {font-weight: bold}
+body {
+	background-color: #F7FFDE;
+}
+.STYLE7 {color: #993300; font-weight: bold; }
